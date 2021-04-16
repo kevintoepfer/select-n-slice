@@ -8,7 +8,7 @@
 
 ### Padding Slice
 
-![Demonstation of the Padding Slice feature.](readme-assets/showcase-simpleslice.gif)
+![Demonstation of the Padding Slice feature.](readme-assets/showcase-paddingslice.gif)
 
 ## Installation
 
