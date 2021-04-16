@@ -1,5 +1,15 @@
 # select-n-slice
 
+## Features
+
+### Simple Slice
+
+![Demonstation of the Simple Slice feature.](readme-assets/showcase-simpleslice.gif)
+
+### Padding Slice
+
+![Demonstation of the Padding Slice feature.](readme-assets/showcase-simpleslice.gif)
+
 ## Installation
 
 - [Download](../../releases/latest/download/select-n-slice.sketchplugin.zip) the latest release of the plugin
