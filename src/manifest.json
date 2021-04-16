@@ -15,10 +15,22 @@
       "icon": "icons\/paddingslice.png",
       "identifier": "paddingslice",
       "script": "./paddingslice.js"
+    },
+    {
+      "name": "Report Issue",
+      "description": "Report an issue on GitHub.",
+      "icon": "icon.png",
+      "identifier": "report",
+      "script": "./report.js"
     }
   ],
   "menu": {
     "title": "Select 'n' Slice",
-    "items": [ "simpleslice", "paddingslice" ]
+    "items": [ 
+      "simpleslice", 
+      "paddingslice", 
+      "-", 
+      "report" 
+    ]
   }
 }
