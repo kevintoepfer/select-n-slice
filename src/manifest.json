@@ -4,14 +4,14 @@
   "commands": [
     {
       "name": "Simple Slice",
-      "description": "Creates a slice around everything you've selected.",
+      "description": "Create a slice around your selection.",
       "icon": "icons\/simpleslice.png",
       "identifier": "simpleslice",
       "script": "./simpleslice.js"
     },
     {
       "name": "Padding Slice",
-      "description": "Creates a slice with a fixed padding around everything you've selected.",
+      "description": "Create a slice with a set padding around your selection.",
       "icon": "icons\/paddingslice.png",
       "identifier": "paddingslice",
       "script": "./paddingslice.js"
