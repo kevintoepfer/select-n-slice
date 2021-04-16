@@ -23,3 +23,6 @@ Create a slice with a set padding around your selection.
 
 _This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._
 
+## Credits
+
+[SizeArtboard](https://github.com/BrendanMiller/SizeArtboard) by [BrendanMiller](https://github.com/BrendanMiller/) provided helpful insights and some code snippets to make this plugin work. Thanks for that!
