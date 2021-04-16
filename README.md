@@ -25,4 +25,4 @@ _This plugin was created using `skpm`. For a detailed explanation on how things 
 
 ## Thanks and credits
 
-Thanks to [SizeArtboard](https://github.com/BrendanMiller/SizeArtboard) by [BrendanMiller](https://github.com/BrendanMiller/), which provided helpful insights and some code snippets to make this plugin work. 👏
+Thanks to [SizeArtboard](https://github.com/BrendanMiller/SizeArtboard) by [BrendanMiller](https://github.com/BrendanMiller/), which provided helpful insights and code snippets to make this plugin work. 👏
