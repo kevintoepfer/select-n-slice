@@ -25,4 +25,6 @@ _This plugin was created using `skpm`. For a detailed explanation on how things 
 
 ## Credits
 
-[SizeArtboard](https://github.com/BrendanMiller/SizeArtboard) by [BrendanMiller](https://github.com/BrendanMiller/) provided helpful insights and some code snippets to make this plugin work. Thanks for that!
+[SizeArtboard](https://github.com/BrendanMiller/SizeArtboard) by [BrendanMiller](https://github.com/BrendanMiller/) provided helpful insights and some code snippets to make this plugin work. 
+
+Thanks for that! 👏
