@@ -3,7 +3,7 @@
   "description": "Sketch plugin to create a slice around anything you've selected.",
   "author": "Kevin Töpfer",
   "identifier": "com.kevintoepfer.sketch.plugin.select-n-slice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "disableCocoaScriptPreprocessor": true,
   "engines": {
     "sketch": ">=49.0"
