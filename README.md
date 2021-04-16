@@ -1,13 +1,14 @@
-# select-n-slice
+# Select n' Slice
+A Sketch plugin to create a slice around anything you've selected.
 
 ## Features
 
 ### Simple Slice
-
+Create a slice around your selection.
 ![Demonstation of the Simple Slice feature.](readme-assets/showcase-simpleslice.gif)
 
 ### Padding Slice
-
+Create a slice with a set padding around your selection.
 ![Demonstation of the Padding Slice feature.](readme-assets/showcase-paddingslice.gif)
 
 ## Installation
