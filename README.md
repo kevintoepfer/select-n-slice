@@ -1,4 +1,4 @@
-# Select n' Slice
+# Select 'n' Slice
 A Sketch plugin to create a slice around anything you've selected.
 
 ## Features

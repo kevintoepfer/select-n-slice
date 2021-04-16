@@ -18,7 +18,7 @@
     }
   ],
   "menu": {
-    "title": "Select n' Slice",
-    "items": [ "simpleslice", "paddingslice", "customslice" ]
+    "title": "Select 'n' Slice",
+    "items": [ "simpleslice", "paddingslice" ]
   }
 }
