@@ -1,0 +1,33 @@
+{
+  "name": "Select n' Slice",
+  "description": "Sketch plugin to create a slice around anything you've selected.",
+  "author": "Kevin Töpfer",
+  "identifier": "com.kevintoepfer.sketch.plugin.select-n-slice",
+  "version": "0.1",
+  "disableCocoaScriptPreprocessor" : true,
+  "engines": {
+    "sketch": ">=49.0"
+  },
+  "skpm": {
+    "name": "Select n' Slice",
+    "manifest": "src/manifest.json",
+    "main": "select-n-slice.sketchplugin",
+    "assets": [
+      "assets/**/*"
+    ],
+    "sketch-assets-file": "sketch-assets/icons.sketch"
+  },
+  "scripts": {
+    "build": "skpm-build",
+    "watch": "skpm-build --watch",
+    "start": "skpm-build --watch --run",
+    "postinstall": "npm run build && skpm-link"
+  },
+  "devDependencies": {
+    "@skpm/builder": "^0.7.0"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/kevintoepfer/select-n-slice.git"
+  }
+}

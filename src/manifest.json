@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Simple Slice",
+      "description": "Creates a slice around everything you've selected.",
+      "icon": "icons\/simpleslice.png",
+      "identifier": "simpleslice",
+      "script": "./simpleslice.js"
+    },
+    {
+      "name": "Padding Slice",
+      "description": "Creates a slice with a fixed padding around everything you've selected.",
+      "icon": "icons\/paddingslice.png",
+      "identifier": "paddingslice",
+      "script": "./paddingslice.js"
+    }
+  ],
+  "menu": {
+    "title": "Select n' Slice",
+    "items": [ "simpleslice", "paddingslice", "customslice" ]
+  }
+}
